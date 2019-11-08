@@ -20,5 +20,17 @@
 # ruby tests/16_palindrome_test.rb
 
 def palindrome (string)
-  # Your code here
+
+  if string.reverse == string
+    return true
+  
+  else 
+  
+    return false
+
+  end 
+
 end
+
+puts palindrome("hello")
+puts palindrome ("racecar")

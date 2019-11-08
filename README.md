@@ -34,3 +34,4 @@
 * 14_hackerman
 * 15_change_letters
 * 16_palindrome
+* 08_count_letters
